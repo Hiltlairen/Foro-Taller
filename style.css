@@ -438,30 +438,40 @@ background-size:32px;
 }
 .clasific{
     display: inline-block;
-    background-color: blue;
-    width:450px;
-    height: 10px;
+    
+    width:80%;
+    height: 20px;
 }
 .temas-cuadro{
     float: right;
+    display: flex;
     background-color: #F4EFF4;
     width:10%;
     height: 100px;
+    justify-content: center;
+  align-items: center;
 }
 .mensaje-cuadro{
     float: right;
+    display: flex;
     background-color: #F4EFF4;
     width:10%;
     height: 100px;
+    justify-content: center;
+  align-items: center;
 }
 .ultimo-cuadro{
     float: right;
+    display: flex;
     background-color: #F4EFF4;
     width:10%;
     height: 100px;
+    justify-content: center;
+  align-items: center;
 }
 
 #cuadro-espacio{
+    
     width:450px;
     height: 60px;
 }
@@ -472,13 +482,19 @@ background-size:32px;
     background-color: red;
 }
 .ttl-temas{
-    display: inline-block;
+    float: right;
+    width:14%;
+    height: 100px;
 }
 .ttl-mensaje{
-    display: inline-block;
+    float: right;
+    width:15%;
+    height: 100px;
 }
 .ttl-ultimos{
-    display: inline-block;
+    float: right;
+    width:10%;
+    height: 100px;
 }
 .cuadro-ops{
     display: block;
@@ -542,8 +558,8 @@ background-size:32px;
 
 
 .taller{
-    display: block;
-    width:100%;
+    display: inline-block;
+    width:70%;
     height: 80px;
     margin-top: 0.2%;
     margin-left: 0%;
@@ -562,12 +578,42 @@ background-size:32px;
     width: 40px;
     height: 40px;
 }
+.temas-cuadro-2{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+.mensaje-cuadro-2{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+.ultimo-cuadro-2{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
 
 
 
 .videoteca{
-    display: block;
-    width:100%;
+    display: inline-block;
+    width:70%;
     height: 100px;
     margin-top: 0.2%;
     margin-left: 0%;
@@ -590,12 +636,41 @@ background-size:32px;
     width: 50px;
     height: 50px;
 }
-
+.temas-cuadro-3{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+  align-items: center;
+}
+.mensaje-cuadro-3{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+  align-items: center;
+}
+.ultimo-cuadro-3{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 100px;
+    justify-content: center;
+  align-items: center;
+}
 
 
 .anuncios{
-    display: block;
-    width:100%;
+    display: inline-block;
+    width:70%;
     height: 80px;
     margin-top: 0.2%;
     margin-left: 0%;
@@ -613,6 +688,36 @@ background-size:32px;
 #img-btn-text-4{
     width: 40px;
     height: 40px;
+}
+.temas-cuadro-4{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+.mensaje-cuadro-4{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
+}
+.ultimo-cuadro-4{
+    margin-top: 0.2%;
+    float: right;
+    display: flex;
+    background-color: #F4EFF4;
+    width:10%;
+    height: 80px;
+    justify-content: center;
+  align-items: center;
 }
 
 /**/
